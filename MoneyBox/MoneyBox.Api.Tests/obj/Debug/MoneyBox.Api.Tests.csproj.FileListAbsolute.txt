@@ -1,0 +1,1 @@
+C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api.Tests\obj\Debug\MoneyBox.Api.Tests.csprojResolveAssemblyReference.cache

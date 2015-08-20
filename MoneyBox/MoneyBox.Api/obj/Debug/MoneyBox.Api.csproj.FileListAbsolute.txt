@@ -1,0 +1,14 @@
+C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api\bin\MoneyBox.Api.dll.config
+C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api\bin\MoneyBox.Api.dll
+C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api\bin\MoneyBox.Api.pdb
+C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api\bin\Newtonsoft.Json.dll
+C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api\bin\System.Net.Http.Formatting.dll
+C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api\bin\System.Web.Http.dll
+C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api\bin\System.Web.Http.WebHost.dll
+C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api\bin\Newtonsoft.Json.xml
+C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api\bin\System.Net.Http.Formatting.xml
+C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api\bin\System.Web.Http.xml
+C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api\bin\System.Web.Http.WebHost.xml
+C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api\obj\Debug\MoneyBox.Api.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api\obj\Debug\MoneyBox.Api.dll
+C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api\obj\Debug\MoneyBox.Api.pdb
