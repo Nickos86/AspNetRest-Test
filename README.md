@@ -21,3 +21,5 @@ I ran out of time so update, delete and save have basic unit tests and no UI for
 I also missed the spec case "Merchant and Description are optional" as my model is just a simple POCO. This would have taken 10 seconds to protect against invariants via the constructor.
 
 I also would have created Dtos for endpoint request and reponses.
+
+I also would have removed local files and packages from GIT - sorry!!
