@@ -1,0 +1,4 @@
+C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Core\bin\Debug\MoneyBox.Core.dll
+C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Core\bin\Debug\MoneyBox.Core.pdb
+C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Core\obj\Debug\MoneyBox.Core.dll
+C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Core\obj\Debug\MoneyBox.Core.pdb

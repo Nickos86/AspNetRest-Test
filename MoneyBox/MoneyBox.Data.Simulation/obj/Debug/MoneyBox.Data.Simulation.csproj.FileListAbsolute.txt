@@ -1,0 +1,8 @@
+C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Data.Simulation\bin\Debug\MoneyBox.Data.Simulation.dll
+C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Data.Simulation\bin\Debug\MoneyBox.Data.Simulation.pdb
+C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Data.Simulation\bin\Debug\FizzWare.NBuilder.dll
+C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Data.Simulation\bin\Debug\MoneyBox.Core.dll
+C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Data.Simulation\bin\Debug\MoneyBox.Core.pdb
+C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Data.Simulation\obj\Debug\MoneyBox.Data.Simulation.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Data.Simulation\obj\Debug\MoneyBox.Data.Simulation.dll
+C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Data.Simulation\obj\Debug\MoneyBox.Data.Simulation.pdb

@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyBox.Api", "MoneyBox.Ap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyBox.Api.Tests", "MoneyBox.Api.Tests\MoneyBox.Api.Tests.csproj", "{A7E41EF8-1F28-4EE8-9E02-7A75A040E917}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyBox.Core", "MoneyBox.Core\MoneyBox.Core.csproj", "{279E56A5-3FD6-40D3-9A71-1EDF0A43E6FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyBox.Data.Simulation", "MoneyBox.Data.Simulation\MoneyBox.Data.Simulation.csproj", "{3CB009AF-7B20-48E5-AF52-D8B1E8E96276}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{A7E41EF8-1F28-4EE8-9E02-7A75A040E917}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7E41EF8-1F28-4EE8-9E02-7A75A040E917}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7E41EF8-1F28-4EE8-9E02-7A75A040E917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{279E56A5-3FD6-40D3-9A71-1EDF0A43E6FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{279E56A5-3FD6-40D3-9A71-1EDF0A43E6FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{279E56A5-3FD6-40D3-9A71-1EDF0A43E6FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{279E56A5-3FD6-40D3-9A71-1EDF0A43E6FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CB009AF-7B20-48E5-AF52-D8B1E8E96276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB009AF-7B20-48E5-AF52-D8B1E8E96276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB009AF-7B20-48E5-AF52-D8B1E8E96276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB009AF-7B20-48E5-AF52-D8B1E8E96276}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
