@@ -29,7 +29,7 @@ namespace MoneyBox.Api.Tests
         }
 
         [Test]
-        public void Get_ShouldReturnCorrectProduct()
+        public void Get_ShouldReturnCorrectTransaction()
         {
             var mockRepository = new Mock<ITransactionRepository>();
             var expected = new Transaction() { TransactionId = 4};
@@ -50,7 +50,7 @@ namespace MoneyBox.Api.Tests
         }
 
         [Test]
-        public void GetProduct_ShouldNotFindProduct()
+        public void Get_ShouldNotFindTransaction()
         {
             TransactionRepository repo = new TransactionRepository();
             var transactionController = new TransactionsController(repo);
@@ -58,6 +58,42 @@ namespace MoneyBox.Api.Tests
             var result = transactionController.Get(-1);
 
             Assert.That(result, Is.TypeOf<NotFoundResult>());
+        }
+
+        [Test]
+        public void TransactionApi_Post_SaveIsCalled()
+        {
+            var mockRepository = new Mock<ITransactionRepository>();
+
+            var transactionController = new TransactionsController(mockRepository.Object);
+
+            transactionController.Post(new Transaction());
+
+            mockRepository.Verify(x => x.Save(It.IsAny<Transaction>()));
+        }
+
+        [Test]
+        public void TransactionApi_Put_UpdateIsCalled()
+        {
+            var mockRepository = new Mock<ITransactionRepository>();
+
+            var transactionController = new TransactionsController(mockRepository.Object);
+
+            transactionController.Put(1, new Transaction());
+
+            mockRepository.Verify(x => x.Update(It.IsAny<Transaction>()));
+        }
+
+        [Test]
+        public void TransactionApi_Delete_DeleteIsCalled()
+        {
+            var mockRepository = new Mock<ITransactionRepository>();
+
+            var transactionController = new TransactionsController(mockRepository.Object);
+
+            transactionController.Delete(1);
+
+            mockRepository.Verify(x => x.Delete(It.IsAny<long>()));
         }
     }
 }

@@ -74,7 +74,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MoneyBox.Api\MoneyBox.Api.csproj">
-      <Project>{423924E4-5CE5-4A32-BE4F-D6E9C598F3F2}</Project>
+      <Project>{423924e4-5ce5-4a32-be4f-d6e9c598f3f2}</Project>
       <Name>MoneyBox.Api</Name>
     </ProjectReference>
     <ProjectReference Include="..\MoneyBox.Core\MoneyBox.Core.csproj">

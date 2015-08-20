@@ -48,5 +48,51 @@ namespace MoneyBox.Api.Controllers
             }
         }
 
+        public IHttpActionResult Post([FromBody] Transaction transaction)
+        {
+            if (transaction == null)
+            {
+                return BadRequest();
+            }
+
+            try
+            {
+                _repository.Save(transaction);
+                return Created<Transaction>(Request.RequestUri
+                        + "/" + transaction.TransactionId.ToString(), transaction);
+
+            }
+            catch (Exception)
+            {
+                return InternalServerError();
+            }
+        }
+
+        public IHttpActionResult Delete(int id)
+        {
+            try
+            {
+                _repository.Delete(id);
+                return Ok();
+            }
+            catch (Exception)
+            {
+                return InternalServerError();
+            }
+        }
+
+        public IHttpActionResult Put(int id, [FromBody] Transaction transaction)
+        {
+            try
+            {
+                _repository.Update(transaction);
+                return Ok();
+            }
+            catch (Exception)
+            {
+                return InternalServerError();
+            }
+        }
+
     }
 }

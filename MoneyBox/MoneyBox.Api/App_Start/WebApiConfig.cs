@@ -24,8 +24,15 @@ namespace MoneyBox.Api
             );
 
             var container = new UnityContainer();
-            container.RegisterType<ITransactionRepository, TransactionRepository>(new HierarchicalLifetimeManager());
+            //container.RegisterType<ITransactionRepository, TransactionRepository>(new HierarchicalLifetimeManager());
+
+            container.RegisterType<ITransactionRepository, TransactionRepository>(
+                new ContainerControlledLifetimeManager(),
+                new InjectionFactory(c => new TransactionRepository()));
+
             config.DependencyResolver = new UnityResolver(container);
+
+            
         }
     }
 }

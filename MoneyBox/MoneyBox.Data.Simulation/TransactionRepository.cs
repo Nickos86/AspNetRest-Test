@@ -54,17 +54,20 @@ namespace MoneyBox.Data.Simulation
 
         public void Save(Transaction transaction)
         {
-            throw new NotImplementedException();
+            _transactions.Add(transaction);
         }
 
         public void Update(Transaction transaction)
         {
-            throw new NotImplementedException();
+            var indexToUpdate = _transactions.ToList().FindIndex(x => x.TransactionId == transaction.TransactionId);
+
+            _transactions[indexToUpdate] = transaction;
         }
 
         public void Delete(long id)
         {
-            throw new NotImplementedException();
+            var transactionToDelete = _transactions.First(x => x.TransactionId == id);
+            _transactions.Remove(transactionToDelete);
         }
     }
 }

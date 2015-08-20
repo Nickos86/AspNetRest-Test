@@ -1,3 +1,4 @@
+C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api.Tests\obj\Debug\MoneyBox.Api.Tests.csprojResolveAssemblyReference.cache
 C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api.Tests\bin\Debug\MoneyBox.Api.Tests.dll.config
 C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api.Tests\bin\Debug\MoneyBox.Api.Tests.dll
 C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api.Tests\bin\Debug\MoneyBox.Api.Tests.pdb
@@ -11,6 +12,7 @@ C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api.Tests\bin\Debug\Syst
 C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api.Tests\bin\Debug\System.Web.Http.dll
 C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api.Tests\bin\Debug\System.Web.Optimization.dll
 C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api.Tests\bin\Debug\Microsoft.Practices.Unity.dll
 C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api.Tests\bin\Debug\System.Web.Http.WebHost.dll
 C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api.Tests\bin\Debug\FizzWare.NBuilder.dll
 C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api.Tests\bin\Debug\System.Web.Razor.dll
@@ -27,13 +29,11 @@ C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api.Tests\bin\Debug\Syst
 C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api.Tests\bin\Debug\System.Web.Http.xml
 C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api.Tests\bin\Debug\System.Web.Optimization.xml
 C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api.Tests\bin\Debug\Microsoft.Practices.Unity.xml
 C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api.Tests\bin\Debug\System.Web.Http.WebHost.xml
 C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api.Tests\bin\Debug\System.Web.Razor.xml
 C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api.Tests\bin\Debug\System.Web.WebPages.Razor.xml
 C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api.Tests\bin\Debug\System.Web.WebPages.xml
 C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
-C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api.Tests\obj\Debug\MoneyBox.Api.Tests.csprojResolveAssemblyReference.cache
 C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api.Tests\obj\Debug\MoneyBox.Api.Tests.dll
 C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api.Tests\obj\Debug\MoneyBox.Api.Tests.pdb
-C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api.Tests\bin\Debug\Microsoft.Practices.Unity.dll
-C:\Users\Nick\Desktop\AspNetRest-Test\MoneyBox\MoneyBox.Api.Tests\bin\Debug\Microsoft.Practices.Unity.xml
